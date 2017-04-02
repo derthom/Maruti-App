@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/finalsuzu"
+    tools:context="com.example.derrick.mymaruti.TipTricks">
+
+    <ScrollView
+        android:layout_width="407dp"
+        android:layout_height="516dp"
+        tools:layout_editor_absoluteX="8dp"
+        tools:layout_editor_absoluteY="8dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:visibility="visible"
+            android:weightSum="1">
+
+            <TextView
+                android:id="@+id/textView47"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingBottom="@android:dimen/notification_large_icon_height"
+                android:text="@string/tip1"
+                android:textColor="@android:color/background_light"
+                android:textSize="24sp"
+                tools:layout_editor_absoluteX="16dp"
+                tools:layout_editor_absoluteY="16dp" />
+
+            <TextView
+                android:id="@+id/textView46"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingBottom="@android:dimen/notification_large_icon_height"
+                android:text="@string/tip2"
+                android:textColor="@android:color/background_light"
+                android:textSize="24sp"
+                tools:layout_editor_absoluteX="35dp"
+                tools:layout_editor_absoluteY="82dp" />
+
+            <TextView
+                android:id="@+id/textView45"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingBottom="@android:dimen/notification_large_icon_height"
+                android:text="@string/tip3"
+                android:textColor="@android:color/background_light"
+                android:textSize="24sp"
+                tools:layout_editor_absoluteX="35dp"
+                tools:layout_editor_absoluteY="160dp" />
+
+            <TextView
+                android:id="@+id/textView42"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingBottom="@android:dimen/notification_large_icon_height"
+                android:text="@string/tip4"
+                android:textColor="@android:color/background_light"
+                android:textSize="24sp"
+                tools:layout_editor_absoluteX="35dp"
+                tools:layout_editor_absoluteY="238dp" />
+
+            <TextView
+                android:id="@+id/textView43"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingBottom="@android:dimen/notification_large_icon_height"
+                android:text="@string/tip5"
+                android:textColor="@android:color/background_light"
+                android:textSize="24sp"
+                tools:layout_editor_absoluteX="43dp"
+                tools:layout_editor_absoluteY="310dp" />
+
+            <TextView
+                android:id="@+id/textView44"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingBottom="@android:dimen/notification_large_icon_height"
+                android:text="@string/tip6"
+                android:textColor="@android:color/background_light"
+                android:textSize="24sp"
+                tools:layout_editor_absoluteX="56dp"
+                tools:layout_editor_absoluteY="406dp" />
+
+            <TextView
+                android:id="@+id/textView41"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingBottom="@android:dimen/notification_large_icon_height"
+                android:text="@string/tip7"
+                android:textColor="@android:color/background_light"
+                android:textSize="24sp"
+                tools:layout_editor_absoluteX="56dp"
+                tools:layout_editor_absoluteY="460dp" />
+
+            <TextView
+                android:id="@+id/textView49"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingBottom="@android:dimen/notification_large_icon_height"
+                android:text="@string/tip8"
+                android:textColor="@android:color/background_light"
+                android:textSize="24sp"
+                tools:layout_editor_absoluteX="54dp"
+                tools:layout_editor_absoluteY="507dp" />
+
+            <TextView
+                android:id="@+id/textView40"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingBottom="@android:dimen/notification_large_icon_height"
+                android:text="@string/tip9"
+                android:textColor="@android:color/background_light"
+                android:textSize="24sp"
+                tools:layout_editor_absoluteX="35dp"
+                tools:layout_editor_absoluteY="541dp" />
+        </LinearLayout>
+    </ScrollView>
+
+</android.support.constraint.ConstraintLayout>

@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">My Maruti</string>
+    <string name="welcome">Welcome, Please Click to Start.</string>
+    <string name="option1">Basic Information About the Car</string>
+    <string name="model">Model:Maruti 800 AC</string>
+    <string name="year">Month of Purchase and Year Of Manufacture:December 23rd,2006</string>
+    <string name="enb">Engine and BHP:796CC MPFI Engine and 37 BHP</string>
+    <string name="ac">AC:Subros Compressor for F8B Engine</string>
+    <string name="tyre">Recommended Tyre Pressure:32 pi</string>
+    <string name="option2">Tips and Tricks</string>
+    <string name="tip1">For Exterior Cleaning->Use mild shampoos or 3M Car Shampoo for perfect shine and dust removal</string>
+    <string name="tip2">For Interior Cleaning->All Floor Mats are removable and if cleaning is required, use a brush to remove dirt, DO NOT WASH CARPETS</string>
+    <string name="tip3">When turning the key from ACC TO ON, wait 5-10 seconds before Ignition because ECU needs to start-up.</string>
+    <string name="tip4">Clutch and Accleration Pedals are non-hydraulic and very sensitive, feedback is also strong ,hence,press and de-press pedals gently for smooth drives</string>
+    <string name="tip5">To get the best of your AC System, wait for 5-7 minutes of Driving time before turning it ON, this greatly reduces load on your engine during the first few minutes of start-up and allows your engine to adapt to the environment, enhancing the overall lifespan of Engine and Compressor</string>
+    <string name="tip6">When parking at incline or high steep roads, engage the handbrake to 4-5 clicks and also keep car in gear.</string>
+    <string name="tip7">For best fuel efficiency, drive car by following the age-old advice "Keep the Revs Low and Gears High"</string>
+    <string name="tip8">When AC is turned ON anticipate considerable load on engine, when moving car from stop position, do not rely solely on Clutch to move the car but gently press Accelerator Pedal while releasing Clutch Pedal, for best experience</string>
+    <string name="tip9">For Long-Distance Travel, check Brake Fluid and Coolant Levels for hassle-free journey.</string>
+    <string name="option3">Troubleshooting(Solutions to Minor Issues)</string>
+    <string name="issue1">When wanting to reverse, sometimes a strange sound comes from the gearbox when gear is engaged-->This is because if the car is moving forward while the reverse gear is engaged then the syncro-mesh turns in the wrong direction causing the gears to grind, come to complete halt and then proceed to engage reverse gear(this is NOT an anamoly or defect but simply the design of the gesrbox)</string>
+    <string name="issue2">Steering doesnt lock-->Thats because if the key is still at the ignition, by default it does not lock</string>
+    <string name="issue3">Audio System does not accept CDs and shows wrong time-->The CD player and time can only be fixed by resetting the audio player, resetting the audio player requires professional assistance</string>
+    <string name="issue4">Interior Lamp doesnt turn on sometimes-->That is due to loose contact of the actuator at the Driver Side Door, 7/10 times it works!, no worries</string>
+    <string name="issue5">When refuelling at Petrol Stations if you opt for FULL TANK, please request the personnel to watch the Petrol flow and manually hold the lever, instead of putting it in automatic,which stops filling when the tank is full, because of the strange design of the fuel intake pipe,for reasons unknown to me ,the sensor never triggers causing Petrol to overflow </string>
+</resources>
